@@ -25,7 +25,7 @@ Les objectifs de ce travail sont :
 - à spécifier le lexique et la syntaxe de chaque langage DSL pour répondre aux besoins que vous aurez mis en évidence par l’étude préalable de l’annotation des documents pré-annotés donnés en exemple et des objectifs de représentation de l’information. Cette étude sera réalisée lors des séances en présentiel prévues à cet effet, elle constituera une sorte de mini cahier de charge (CC) pour la spécification des langages ;
 - à spécifier les propriétés de chaque langage obligatoirement réalisée gràce au langage XML-Schema (vous pouvez vous aider en passant par une première spécification grossière en langage DTD).
 - à tester, sur les exemples de documents mis à votre disposition, les capacités de contrôle et d’expressivité des DSL spécifiés pour un marquage selon la structure du texte.
-- de réaliser des transformations contrˆolées gràce au langage XSLT et au langage de description XML-Schema
+- de réaliser des transformations contrôlées gràce au langage XSLT et au langage de description XML-Schema
 - de réaliser gràce au langage XSLT les autres transformations nécessaires aux besoins exprimés dans le CC.
 
 ## Quelques précisions :
