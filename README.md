@@ -3,9 +3,9 @@
 Nous utilisons depuis longtemps et dans diverses activités des DSL parfois sans même nous en apercevoir. Peuvent être considérées comme des DSL le langage SQL, le langage de requête d’un moteur de recherche, voire un ensemble d’expressions régulières.
 
 Un DSL (Domain Specific Language), par opposition aux langages de programmation généeralistes tels que Python, Java, C++. . . et aux langages de modélisation généralistes tels que UML, se différencie pour les trois raisons suivantes :
-- Il est spécifique : Un DSL peut être un langage, de transformation, de modélisation, de programmation ou d’interrogation, selon ce pour quoi il a été conçu. Il est spécifique à un domaine métier précis et souvent peut ne pas répondre à toutes les problématiques liées à ce domaine.
+- Il est spécifique : Un DSL peut être un langage, de transformation, de modélisation, de programmation ou d’interrogation, selon ce pour quoi il a été conçu. Il est spécifique à un domaine métier précis et souvent peut ne pas répondre à toutes les problématiques liées à ce domaine.
 - Il est doté d’un vocabulaire précis et concis : Un DSL est simple d’utilisation et non ambigu. Son expressivité est basée sur un vocabulaire ciblé, propre au domaine métier.
-- Qu’il ai été créé ou adapté, il doit rester évolutif : La syntaxe du DSL est simple à personnaliser, elle se base sur un vocabulaire et des règles syntaxiques explicites entièrement définies lors de sa conception.
+- Qu’il ai été créé ou adapté, il doit rester évolutif : La syntaxe du DSL est simple à personnaliser, elle se base sur un vocabulaire et des règles syntaxiques explicites entièrement définies lors de sa conception.
 
 Grâce à sa syntaxe personnalisable, exprimant des concepts communs à son domaine d’application, un DSL est paramétrable par rapport au métier, à une communauté ou à un projet. Facile à interpréter, il est un outil de communication entre les experts du domaine et le développeur, il permet aux experts de participer à la conception fonctionnelle de l’application. 
 
