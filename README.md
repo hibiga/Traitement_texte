@@ -29,9 +29,9 @@ Les objectifs de ce travail sont :
 - de réaliser gràce au langage XSLT les autres transformations nécessaires aux besoins exprimés dans le CC.
 
 ## Quelques précisions :
-— Le ou les DSL spécifiés pour les annotations respectant la structure du texte, doivent pouvoir coexister gràce aux espaces de nom qu’il sera nécessaire de définir.
-— Cela permettra alors de pouvoir avoir dans un même document les annotations provenant de ces divers DSL.
-— Un marquage par le DSL modélisant la catégorie grammaticale des Noms Propres doit par exemple, quand il s’agit d’un Nom de Lieu, pouvoir co-exister avec un marquage du DSL modélisant les catégories sémantiques afin d’intégrer des informations supplémentaires comme
+- Le ou les DSL spécifiés pour les annotations respectant la structure du texte, doivent pouvoir coexister gràce aux espaces de nom qu’il sera nécessaire de définir.
+- Cela permettra alors de pouvoir avoir dans un même document les annotations provenant de ces divers DSL.
+- Un marquage par le DSL modélisant la catégorie grammaticale des Noms Propres doit par exemple, quand il s’agit d’un Nom de Lieu, pouvoir co-exister avec un marquage du DSL modélisant les catégories sémantiques afin d’intégrer des informations supplémentaires comme
 la nature (catégorie sémantique) du Nom Propre (Lieu de type Lac) ou encore les coordonnées permettant de le < géo-localisation > sur une carte.
-— Le DSL modélisant les catégories grammaticales doit prévoir d’intégrer en plus de la marque catégorielle, par exemple, le lemme du mot.
-— Une transformation vers un langage du monde XML pourrait être la traduction de toutes les < entités nommées de lieu > et informations associées en élément adéquat à des fins de cartographie gràce à l’api Leaflet (http ://leafletjs.com/) et aux données d’OpenStreetMap (http ://www.openstreetmap.org/).
+- Le DSL modélisant les catégories grammaticales doit prévoir d’intégrer en plus de la marque catégorielle, par exemple, le lemme du mot.
+- Une transformation vers un langage du monde XML pourrait être la traduction de toutes les < entités nommées de lieu > et informations associées en élément adéquat à des fins de cartographie gràce à l’api Leaflet (http ://leafletjs.com/) et aux données d’OpenStreetMap (http ://www.openstreetmap.org/).
